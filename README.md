@@ -29,6 +29,14 @@ A collection of beginner-friendly Python mini projects designed to help you mast
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/codebyimran/python-mini-projects.git
+   git clone https://github.com/codebyimran-projects/python-mini-projects.git
    cd python-mini-projects
-   
+
+   # Cafe Management System
+python cafe.py
+
+# Expense Distribution App
+python expenses.py
+
+# Rock Paper Scissors Game
+python game.py
