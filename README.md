@@ -1,80 +1,34 @@
-# Python Mini Projects by CodeByImran
+# 🐍 Python Mini Projects by CodeByImran
 
-This repository contains three beginner-friendly Python mini projects developed by CodeByImran.  
-Each project is designed to help beginners understand Python fundamentals such as input handling, data structures, conditionals, and loops.  
-All projects are simple, console-based, and easy to run.
+![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![Contributions](https://img.shields.io/badge/Contributions-Welcome-orange)
 
----
-
-## Projects Included
-
-### 1. Mini Cafe Management System
-A console-based cafe ordering system that allows customers to view the menu, select items, and automatically calculate their total bill.
-
-**Features**
-- Displays a complete menu with item prices
-- Allows customers to add multiple items to their cart
-- Calculates total amount dynamically
-- Handles unavailable items gracefully
-
-**Concepts Used**
-- Dictionaries for menu and pricing
-- Loops and conditional statements
-- List management for ordered items
-- String formatting for clean output
+A collection of beginner-friendly Python mini projects designed to help you master Python fundamentals through practical, real-world applications. Perfect for beginners starting their programming journey! 🚀
 
 ---
 
-### 2. Expense Distribution App
-A simple Python application that divides shared expenses equally among multiple people.  
-Ideal for roommates, friends, or families managing common costs.
+## 📋 Projects Overview
 
-**Features**
-- Accepts total expense amount and number of participants
-- Calculates equal share per person
-- Optionally accepts names for personalized results
-- Includes input validation and error handling
-
-**Concepts Used**
-- Variables and arithmetic operations
-- User input handling
-- Loops and conditional logic
-- Basic data management
+| Project | Description | Difficulty | Key Concepts |
+|---------|-------------|------------|--------------|
+| 🍽️ [Cafe Management](#1-mini-cafe-management-system) | Console-based ordering system | ⭐☆☆ | Dictionaries, Loops, Lists |
+| 💰 [Expense Distribution](#2-expense-distribution-app) | Split bills among friends | ⭐☆☆ | Input Handling, Arithmetic |
+| 🎮 [Rock Paper Scissors](#3-rock-paper-scissors-game) | Classic game vs computer | ⭐⭐☆ | Random Module, Conditionals |
 
 ---
 
-### 3. Rock Paper Scissors Game
-A command-line game where the user competes against the computer's randomly selected move.
+## 🚀 Quick Start
 
-**Features**
-- Computer selects a random option using Python’s `random` module
-- User input for choice (rock, paper, or scissor)
-- Displays game result (win, lose, or tie)
-- Simple, interactive, and replayable
+### Prerequisites
+- Python 3.8 or higher
+- Basic terminal/command prompt knowledge
 
-**Concepts Used**
-- Randomization with the `random` module
-- Conditional statements for win/lose logic
-- Loops for multiple rounds
-- String comparison and input handling
+### Installation & Running
 
----
-
-## Skills Learned
-- Using Python variables and data types effectively  
-- Working with conditionals and loops  
-- Handling user input and validation  
-- Structuring simple, readable Python scripts  
-- Practicing small project organization
-
----
-
-## How to Run
-1. Ensure Python 3.x is installed on your system.
-2. Clone or download this project folder.
-3. Open the folder in your terminal or IDE.
-4. Run any file using one of the following commands:
+1. **Clone the repository**
    ```bash
-   python cafe.py
-   python expenses.py
-   python game.py
+   git clone https://github.com/codebyimran/python-mini-projects.git
+   cd python-mini-projects
+   
