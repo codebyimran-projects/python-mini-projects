@@ -33,10 +33,10 @@ A collection of beginner-friendly Python mini projects designed to help you mast
    cd python-mini-projects
 
    # Cafe Management System
-python cafe.py
+python system.py
 
 # Expense Distribution App
-python expenses.py
+python system.py
 
 # Rock Paper Scissors Game
 python game.py
